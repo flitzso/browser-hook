@@ -1,0 +1,15 @@
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\bin\Debug\hook-browser.exe.config
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\bin\Debug\hook-browser.exe
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\bin\Debug\hook-browser.pdb
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook-browser.csproj.AssemblyReference.cache
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook-browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook_browser.Form1.resources
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook_browser.Properties.Resources.resources
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook-browser.csproj.GenerateResource.cache
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook-browser.csproj.CoreCompileInputs.cache
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook-browser.exe
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook-browser.pdb
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\bin\Debug\hook-browser.exe.manifest
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\bin\Debug\hook-browser.application
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook-browser.exe.manifest
+C:\Users\User\developer\csharp\hook-browser\hook-browser\hook-browser\obj\Debug\hook-browser.application
